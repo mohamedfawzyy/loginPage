@@ -1,0 +1,9 @@
+body{
+    background-color:#24353F ;
+}
+.box{
+    box-shadow: 5px 5px 50px hsl(0, 0%, 15%),-5px -5px 50px hsl(0, 0%, 15%);
+}
+input::placeholder{
+    color: hsl(0, 0%, 70%) !important;
+}
